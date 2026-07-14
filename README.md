@@ -18,7 +18,7 @@ Passionate about building scalable web applications, machine learning solutions,
 
 - 🎓 Final Year B.E. Information Science & Engineering Student
 - 🏫 J.N.N. College of Engineering, Shivamogga
-- 🎯 CGPA: 9+
+- 🎯 CGPA: 9.13
 - 💻 Passionate about Full Stack Development
 - 🤖 Interested in Artificial Intelligence & Machine Learning
 - ☁️ Learning Cloud Computing & DevOps
@@ -109,13 +109,6 @@ Passionate about building scalable web applications, machine learning solutions,
 
 ---
 
-### 💳 Fraud Detection using Machine Learning
-
-- Detects fraudulent transactions.
-- Classification Algorithms
-- Data Visualization
-
----
 
 ### 🌍 WildTour Web Application
 
@@ -133,7 +126,6 @@ Passionate about building scalable web applications, machine learning solutions,
 - Cisco Networking Academy
 - Infosys Springboard
 - Google Cloud Skills Boost
-- Oracle Learning Explorer
 
 ---
 
