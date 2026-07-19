@@ -209,17 +209,23 @@ Passionate about building scalable web applications, machine learning solutions,
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/vaishnavi-s-v-6139892a6" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
 
-  <a href="https://github.com/vaish-sv22" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+<a href="https://www.linkedin.com/in/vaishnavi-s-v-6139892a6" target="_blank">
+  <img src="https://img.icons8.com/fluency/60/linkedin-circled.png" alt="LinkedIn"/>
+</a>
 
-  <a href="mailto:vaishnavisv08@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://github.com/vaish-sv22" target="_blank">
+  <img src="https://img.icons8.com/fluency/60/github.png" alt="GitHub"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="mailto:vaishnavisv08@gmail.com">
+  <img src="https://img.icons8.com/fluency/60/gmail-new.png" alt="Gmail"/>
+</a>
+
 </p>
 
 # 📌 Featured Repositories
