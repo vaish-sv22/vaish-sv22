@@ -13,6 +13,11 @@ Passionate about building scalable web applications, machine learning solutions,
 </p>
 
 ---
+<h1 align="center">👋 Hey! Nice to see you.</h1>
+
+<p align="center">
+Welcome to my GitHub profile! <br><br>
+</p>
 
 ## 👩‍🎓 About Me
 
