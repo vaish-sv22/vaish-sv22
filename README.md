@@ -150,6 +150,21 @@ Passionate about building scalable web applications, machine learning solutions,
 - Data Structures & Algorithms
 
 ---
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vaish-sv22&show_icons=true&theme=tokyonight" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaish-sv22&theme=tokyonight" />
+</p>
+## 📈 Top Languages
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vaish-sv22&theme=tokyonight" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vaish-sv22&theme=tokyonight" width="48%" />
+</p>
+
 
 # 📫 Connect With Me
 
@@ -157,9 +172,7 @@ Passionate about building scalable web applications, machine learning solutions,
 - 🌐 Portfolio: https://lovable.dev/projects/ee6f6763-51b7-435e-8141-b68118f8105d
 - 📧 Email: vaishnavisv08@gmail.com
 
-
 ---
-
 
 # 📌 Featured Repositories
 
