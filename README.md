@@ -165,8 +165,12 @@ Passionate about building scalable web applications, machine learning solutions,
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<!--<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vaish-sv22&theme=github_dark" width="49%" />
+</p>-->
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vaish-sv22&theme=dracula" width="49%" />
 </p>
 
 ## 🔥 GitHub Streak
