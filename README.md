@@ -162,10 +162,11 @@ Passionate about building scalable web applications, machine learning solutions,
 - Data Structures & Algorithms
 
 ---
+
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=vaish-sv22&theme=github-dark&hide_border=true" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vaish-sv22&theme=github_dark" width="49%" />
 </p>
 
 ## 🔥 GitHub Streak
