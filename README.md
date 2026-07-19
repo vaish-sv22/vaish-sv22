@@ -186,9 +186,9 @@ Passionate about building scalable web applications, machine learning solutions,
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=vaish-sv22&theme=github-dark"/>
 </p>
----
 
-## 🌐 Connect with Me
+
+<!--## 🌐 Connect with Me
 
 <p align="center">
 
@@ -204,6 +204,24 @@ Passionate about building scalable web applications, machine learning solutions,
   <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/>
 </a>
 
+</p>-->
+
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/vaishnavi-s-v-6139892a6">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+
+  <a href="https://github.com/vaish-sv22">
+    <img src="https://skillicons.dev/icons?i=github" height="55"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+
+  <a href="mailto:vaishnavisv08@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="55"/>
+  </a>
 </p>
 
 # 📌 Featured Repositories
