@@ -83,6 +83,19 @@ Passionate about building scalable web applications, machine learning solutions,
 - Postman
 
 ---
+## 💻 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,html,css,js,react,flask,mysql,mongodb,git,github,docker,aws,vscode,eclipse,tensorflow" />
+
+</p>
+
+## 💻 Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,html,css,js,react,flask,mysql,mongodb,git,github,docker,aws,vscode,eclipse,tensorflow" />
+</p>
 
 # 🚀 Projects
 
