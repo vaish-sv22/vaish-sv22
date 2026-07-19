@@ -179,22 +179,6 @@ Passionate about building scalable web applications, machine learning solutions,
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vaish-sv22&theme=github_dark" width="48%" />
 </p>
 
-## 🌐 Connect with Me
-
-<p align="center">
-  <a href="https://github.com/vaish-sv22">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-
-  <a href="https://www.linkedin.com/in/vaishnavi-s-v-6139892a6">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
-  <a href="mailto:vaishnavisv08@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
 ---
 ## 🌐 Connect with Me
 
