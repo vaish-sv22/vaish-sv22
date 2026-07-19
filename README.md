@@ -156,6 +156,11 @@ Passionate about building scalable web applications, machine learning solutions,
   <img src="https://github-readme-stats.vercel.app/api?username=vaish-sv22&show_icons=true&theme=github_dark&hide_border=true" width="49%" />
   <img src="https://streak-stats.demolab.com?user=vaish-sv22&theme=github-dark&hide_border=true" width="49%" />
 </p>
+## 📊 GitHub Profile
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vaish-sv22&theme=github_dark" width="100%" />
+</p>
 
 ## 📈 Top Languages
 
