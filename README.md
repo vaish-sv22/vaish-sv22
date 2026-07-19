@@ -206,7 +206,7 @@ Passionate about building scalable web applications, machine learning solutions,
 
 </p>-->
 
-## 🌐 Connect with Me
+<!--## 🌐 Connect with Me
 
 <p align="center">
 
@@ -226,6 +226,20 @@ Passionate about building scalable web applications, machine learning solutions,
   <img src="https://img.icons8.com/fluency/60/gmail-new.png" alt="Gmail"/>
 </a>
 
+</p>-->
+
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/vaishnavi-s-v-6139892a6" target="_blank">
+    <img src="https://img.icons8.com/fluency/60/linkedin-circled.png" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/vaish-sv22" target="_blank">
+    <img src="https://img.icons8.com/fluency/60/github.png" alt="GitHub"/>
+  </a>
+  <a href="mailto:vaishnavisv08@gmail.com">
+    <img src="https://img.icons8.com/fluency/60/gmail-new.png" alt="Gmail"/>
+  </a>
 </p>
 
 # 📌 Featured Repositories
