@@ -170,7 +170,7 @@ Passionate about building scalable web applications, machine learning solutions,
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=vaish-sv22&show_icons=true&theme=github_dark&include_all_commits=true" width="49%"/>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=vaish-sv22&show_icons=true&theme=github_dark&include_all_commits=true" width="49%"/>
 </p>
 
 ## 📊 GitHub Profile
