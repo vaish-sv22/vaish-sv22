@@ -188,6 +188,12 @@ Passionate about building scalable web applications, machine learning solutions,
 </p>
 ---
 
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vaish-sv22&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
 ## 🌐 Connect with Me
 
 <p align="center">
