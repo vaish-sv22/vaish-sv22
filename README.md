@@ -184,10 +184,10 @@ Passionate about building scalable web applications, machine learning solutions,
 
 ## 📈 Contribution Graph
 
-<p align="center">
+<!--<p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=vaish-sv22&theme=github-dark"/>
-</p>
-
+</p>-->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vaish-sv22&theme=github-dark&cache_seconds=1800"/>
 
 <!--## 🌐 Connect with Me
 
