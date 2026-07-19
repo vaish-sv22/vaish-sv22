@@ -158,13 +158,13 @@ Passionate about building scalable web applications, machine learning solutions,
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaish-sv22&theme=tokyonight" />
 </p>
+
 ## 📈 Top Languages
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vaish-sv22&theme=tokyonight" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vaish-sv22&theme=tokyonight" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vaish-sv22&theme=github_dark" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vaish-sv22&theme=github_dark" width="48%" />
 </p>
-
 
 # 📫 Connect With Me
 
