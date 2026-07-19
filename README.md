@@ -1,5 +1,5 @@
 <!--<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Vaishnavi%20S%20V&fontAlign=50&fontSize=40"/>-->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Vaishnavi%20S%20V&fontAlign=50&fontSize=40"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&color=gradient"/>
 <p align="center">
   <img src="Vaishnavi SV.png" width="100%" alt="GitHub Banner">
 </p>
