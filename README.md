@@ -181,7 +181,13 @@ Passionate about building scalable web applications, machine learning solutions,
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vaish-sv22&theme=github_dark" width="48%" />
 </p>
 
+## 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vaish-sv22&theme=github-dark"/>
+</p>
 ---
+
 ## 🌐 Connect with Me
 
 <p align="center">
