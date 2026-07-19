@@ -196,6 +196,23 @@ Passionate about building scalable web applications, machine learning solutions,
 </p>
 
 ---
+## 🌐 Connect with Me
+
+<p align="center">
+
+<a href="https://github.com/vaish-sv22" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub"/>
+</a>
+
+<a href="https://www.linkedin.com/in/vaishnavi-s-v-6139892a6" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
+</a>
+
+<a href="mailto:vaishnavisv08@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/>
+</a>
+
+</p>
 
 # 📌 Featured Repositories
 
