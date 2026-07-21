@@ -173,11 +173,11 @@ Passionate about building scalable web applications, machine learning solutions,
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vaish-sv22&theme=dracula" width="49%" />
 </p>
 
-## 🔥 GitHub Streak
+<!--## 🔥 GitHub Streak
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=vaish-sv22&theme=github-dark&hide_border=true" width="49%" />
-</p>
+</p>-->
 
 ## 📊 GitHub Stats
 
@@ -185,11 +185,11 @@ Passionate about building scalable web applications, machine learning solutions,
   <img src="https://github-readme-stats.shion.dev/api?username=vaish-sv22&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" width="49%" alt="GitHub Stats" />
 </p>
 
-<!--## 🔥 GitHub Streak
+## 🔥 GitHub Streak
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaish-sv22&theme=github-dark&hide_border=true" width="49%" alt="Vaishnavi's GitHub Streak" />
-</p>-->
+</p>
 
 ## 📊 GitHub Profile
 
