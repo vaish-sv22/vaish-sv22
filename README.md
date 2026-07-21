@@ -182,7 +182,7 @@ Passionate about building scalable web applications, machine learning solutions,
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vaish-sv22&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" width="49%" alt="Vaishnavi's GitHub Stats" />
+  <img src="https://github-readme-stats.shion.dev/api?username=vaish-sv22&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" width="49%" alt="GitHub Stats" />
 </p>
 
 ## 🔥 GitHub Streak
