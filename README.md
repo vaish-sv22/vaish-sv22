@@ -180,10 +180,12 @@ Passionate about building scalable web applications, machine learning solutions,
 </p>-->
 
 ## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=vaish-sv22&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" width="49%" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vaish-sv22&theme=dracula" width="49%" alt="GitHub Stats" />
 </p>
+<!--<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=vaish-sv22&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" width="49%" alt="GitHub Stats" />
+</p>-->
 
 <!--<p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=vaish-sv22&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" width="49%" alt="GitHub Stats" />
