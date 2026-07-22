@@ -11,7 +11,7 @@
 </h1>
 
 <p> Welcome to my page! </br>
-  I'm <b>Vaishnavi S V</b>
+  I'm Vaishnavi
 </p>
 <img src="https://raw.githubusercontent.com/Mayur-Pagote/README_Design_Kit/main/public/Assets/Rabit%20Happy.gif" width="220"/>
 
