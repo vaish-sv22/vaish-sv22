@@ -83,6 +83,8 @@ Passionate about building scalable web applications, machine learning solutions,
 
 </p>
 
+---
+
 # 🚀 Projects
 
 ### 🧠 Parkinson's Disease Prediction
