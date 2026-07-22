@@ -15,15 +15,6 @@
 </p>
 <img src="https://raw.githubusercontent.com/Mayur-Pagote/README_Design_Kit/main/public/Assets/Rabit%20Happy.gif" width="220"/>
 
-## 👩‍🎓 About Me
-
--  B.E. in Information Science & Engineering 
--  J.N.N. College of Engineering, Shivamogga
--  CGPA: 9.13
--  Passionate about Full Stack Development
--  Interested in Artificial Intelligence & Machine Learning
-
-
 <h2 align="left">💻 Technical Skills</h2>
 
 <p align="center">
