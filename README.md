@@ -310,8 +310,19 @@ Passionate about building scalable web applications, machine learning solutions,
 <h1 align="center">Connect With Me</h1>
 
 <p align="center">
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/vaishnavi-s-v-6139892a6/" target="_blank">
     <img src="https://raw.githubusercontent.com/Mayur-Pagote/README_Design_Kit/main/public/Assets/linkedin.gif" width="100" alt="LinkedIn">
+  </a>
+
+  <!-- GitHub -->
+  <a href="https://github.com/vaish-sv22" target="_blank">
+    <img src="https://raw.githubusercontent.com/Mayur-Pagote/README_Design_Kit/main/public/Assets/github.gif" width="100" alt="GitHub">
+  </a>
+
+  <!-- Gmail -->
+  <a href="mailto:vaishnavisv08@gmail.com">
+    <img src="https://raw.githubusercontent.com/Mayur-Pagote/README_Design_Kit/main/public/Assets/gmail.gif" width="100" alt="Gmail">
   </a>
 </p>
 
