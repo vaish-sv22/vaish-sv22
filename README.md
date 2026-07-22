@@ -20,11 +20,11 @@
 
 ## 👩‍🎓 About Me
 
-- 🎓 B.E. in Information Science & Engineering 
-- 🏫 J.N.N. College of Engineering, Shivamogga
-- 🎯 CGPA: 9.13
-- 💻 Passionate about Full Stack Development
-- 🤖 Interested in Artificial Intelligence & Machine Learning
+-  B.E. in Information Science & Engineering 
+-  J.N.N. College of Engineering, Shivamogga
+-  CGPA: 9.13
+-  Passionate about Full Stack Development
+-  Interested in Artificial Intelligence & Machine Learning
 
 ---
 
