@@ -14,7 +14,7 @@
   I'm <b>Vaishnavi S V</b>
 </p>
 
-<img src="https://raw.githubusercontent.com/Mayur-Pagote/README_Design_Kit/main/public/Assets/Pixel%20Cat.gif"/>
+<img src="https://media.tenor.com/Xw6Y7e4xk2QAAAAi/pixel-rabbit.gif" width="220"/>
 
 
 ## 👩‍🎓 About Me
