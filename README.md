@@ -193,6 +193,6 @@
 </h3>
 <!--<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient"/>-->
 
-
+<img src="https://github.com/Mayur-Pagote/README_Design_Kit/blob/aa28326300247d989c9f7c2eeb177f59577d785b/Assets/RGB%20Line%20Medium.gif?raw=true" width="100%">
 
 
