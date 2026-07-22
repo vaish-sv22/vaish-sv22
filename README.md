@@ -272,33 +272,6 @@ Passionate about building scalable web applications, machine learning solutions,
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 
-
-# 📌 Featured Repositories
-
-⭐ Parkinson's Disease Prediction
-
-⭐ Crop Recommendation System
-
-⭐ Java Programming Repository
-
-⭐ Spring Boot Projects
-
-⭐ React.js Projects
-
-⭐ Machine Learning Projects
-
----
-
-# 💡 Quote
-
-> "Success comes from continuous learning, consistency, and building real-world projects."
-
----
-
-<h3 align="center">
-
-⭐ Thank you for visiting my GitHub Profile ⭐
-
 </h3>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient"/>
 
