@@ -13,7 +13,7 @@
 <p> Welcome to my page! </br>
   I'm <b>Vaishnavi S V</b>
 </p>
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="220"/>
+<img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="220"/>
 
 ## 👩‍🎓 About Me
 
