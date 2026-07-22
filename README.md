@@ -14,7 +14,7 @@
   I'm <b>Vaishnavi S V</b>
 </p>
 
-<img src="https://media.tenor.com/Xw6Y7e4xk2QAAAAi/pixel-rabbit.gif" width="220"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDhnNjg5OW5waDlhd3lnN2txeXZrbmVwd2JlNW5hODh4ZmI2YnM1dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlBO7eyXzSZkJri/giphy.gif" width="220"/>
 
 
 ## 👩‍🎓 About Me
