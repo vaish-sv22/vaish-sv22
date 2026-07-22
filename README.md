@@ -13,7 +13,7 @@
 <p> Welcome to my page! </br>
   I'm <b>Vaishnavi S V</b>
 </p>
-<img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="220"/>
+<img src="https://raw.githubusercontent.com/Mayur-Pagote/README_Design_Kit/main/public/Assets/Rabit%20Happy.gif" width="220"/>
 
 ## 👩‍🎓 About Me
 
