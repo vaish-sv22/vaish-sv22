@@ -78,15 +78,10 @@ Passionate about building scalable web applications, machine learning solutions,
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="42" title="IntelliJ IDEA"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="42" title="Jupyter Notebook"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="42" title="Postman"/>
-
-<!-- MySQL Workbench -->
-<img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="42" title="MySQL Workbench"/>
-
-<!-- Power BI -->
-<img src="https://cdn.simpleicons.org/powerbi/F2C811" width="42" title="Power BI"/>
-
+<!--Power BI-->
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="42" title="Power BI"/>
 <!-- Tableau -->
-<img src="https://cdn.simpleicons.org/tableau/E97627" width="42" title="Tableau"/>
+<img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" width="42" title="Tableau"/>
 
 </p>
 
