@@ -139,45 +139,6 @@
 </p>-->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=vaish-sv22&theme=github-dark&cache_seconds=1800"/>
 
-<!--## 🌐 Connect with Me
-
-<p align="center">
-
-<a href="https://github.com/vaish-sv22" target="_blank">
-  <img src="https://skillicons.dev/icons?i=github" alt="GitHub"/>
-</a>
-
-<a href="https://www.linkedin.com/in/vaishnavi-s-v-6139892a6" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
-</a>
-
-<a href="mailto:vaishnavisv08@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/>
-</a>
-
-</p>-->
-
-<!--## 🌐 Connect with Me
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/vaishnavi-s-v-6139892a6" target="_blank">
-  <img src="https://img.icons8.com/fluency/60/linkedin-circled.png" alt="LinkedIn"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://github.com/vaish-sv22" target="_blank">
-  <img src="https://img.icons8.com/fluency/60/github.png" alt="GitHub"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="mailto:vaishnavisv08@gmail.com">
-  <img src="https://img.icons8.com/fluency/60/gmail-new.png" alt="Gmail"/>
-</a>
-
-</p>-->
 
 <!--## 🌐 Connect with Me-->
 
@@ -192,6 +153,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 
 </h3>
+
 <!--<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient"/>-->
 
 
