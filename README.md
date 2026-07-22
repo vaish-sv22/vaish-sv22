@@ -39,8 +39,6 @@ Passionate about building scalable web applications, machine learning solutions,
 <!-- Programming Languages -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="42" title="Java"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" title="Python"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="42" title="C"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="42" title="C++"/>
 
 <!-- Frontend -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="42" title="HTML5"/>
@@ -81,7 +79,7 @@ Passionate about building scalable web applications, machine learning solutions,
 <!--Power BI-->
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="42" title="Power BI"/>
 <!-- Tableau -->
-<img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" width="42" title="Tableau"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" width="42" title="Tableau"/>
 
 </p>
 
