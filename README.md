@@ -302,3 +302,17 @@ Passionate about building scalable web applications, machine learning solutions,
 
 </h3>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient"/>
+
+
+-------------------------------------------
+
+
+<h1 align="center">Connect With Me</h1>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/vaishnavi-s-v-6139892a6/" target="_blank">
+    <img src="https://raw.githubusercontent.com/Mayur-Pagote/README_Design_Kit/main/public/Assets/linkedin.gif" width="100" alt="LinkedIn">
+  </a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
