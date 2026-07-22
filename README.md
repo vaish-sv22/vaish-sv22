@@ -5,16 +5,16 @@
   <img src="Vaishnavi SV.png" width="100%" alt="GitHub Banner">
 </p>
 
-<h1 align="center">Hi 👋, I'm Vaishnavi S V</h1>
+<h1>
+  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
+  Hey! Nice to see you.
+</h1>
 
-<h3 align="center">
-Full Stack Developer | AI & ML Enthusiast | Java | Python | AWS | Docker
-</h3>
-
-<p align="center">
-Passionate about building scalable web applications, machine learning solutions, and cloud-based projects while continuously learning modern technologies.
+<p> Welcome to my page! </br>
+  I'm <b>Vaishnavi S V</b>
 </p>
 
+<img src="https://raw.githubusercontent.com/Mayur-Pagote/README_Design_Kit/main/public/Assets/Pixel%20Cat.gif"/>
 ---
 <p align="center">
 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300"/>
