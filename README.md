@@ -260,19 +260,18 @@ Passionate about building scalable web applications, machine learning solutions,
 
 </p>-->
 
-## 🌐 Connect with Me
+<!--## 🌐 Connect with Me-->
+
+<h1 align="center"> 🌐 Connect With Me</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/vaishnavi-s-v-6139892a6" target="_blank">
-    <img src="https://img.icons8.com/fluency/60/linkedin-circled.png" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/vaish-sv22" target="_blank">
-    <img src="https://img.icons8.com/fluency/60/github.png" alt="GitHub"/>
-  </a>
-  <a href="mailto:vaishnavisv08@gmail.com">
-    <img src="https://img.icons8.com/fluency/60/gmail-new.png" alt="Gmail"/>
+  <a href="https://www.linkedin.com/in/vaishnavi-s-v-6139892a6/" target="_blank">
+    <img src="https://raw.githubusercontent.com/Mayur-Pagote/README_Design_Kit/main/public/Assets/linkedin.gif" width="100" alt="LinkedIn">
   </a>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+
 
 # 📌 Featured Repositories
 
@@ -304,23 +303,4 @@ Passionate about building scalable web applications, machine learning solutions,
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient"/>
 
 
--------------------------------------------
 
-
-<h1 align="center">Connect With Me</h1>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/vaishnavi-s-v-6139892a6/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-
-  <a href="https://github.com/vaish-sv22" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-
-  <a href="mailto:vaishnavisv08@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
