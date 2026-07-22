@@ -14,8 +14,8 @@
   I'm <b>Vaishnavi S V</b>
 </p>
 
-<img src="https://raw.githubusercontent.com/Mayur-Pagote/README_Design_Kit/main/public/Assets/Pixel%20Cat.gif"/>
----
+----
+
 <p align="center">
 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300"/>
 </p>
