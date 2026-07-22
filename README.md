@@ -16,7 +16,6 @@
 
 <img src="https://raw.githubusercontent.com/Mayur-Pagote/README_Design_Kit/main/public/Assets/Pixel%20Cat.gif"/>
 
-----
 
 ## 👩‍🎓 About Me
 
@@ -26,7 +25,6 @@
 -  Passionate about Full Stack Development
 -  Interested in Artificial Intelligence & Machine Learning
 
----
 
 <h2 align="left">💻 Technical Skills</h2>
 
