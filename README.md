@@ -32,65 +32,61 @@ Passionate about building scalable web applications, machine learning solutions,
 
 ---
 
-# 💻 Technical Skills
-
-## Programming Languages
-
-- Java
-- Python
-- C
-- C++
-
-## Frontend
-
-- HTML5
-- CSS3
-- JavaScript
-- React.js
-- Bootstrap
-
-## Backend
-
-- Spring Boot
-- Flask
-
-## Database
-
-- MySQL
-
-## AI & Data Analytics
-
-- Machine Learning
-- Data Analytics
-- Pandas
-- NumPy
-- Scikit-learn
-- Power BI
-- Tableau
-
-## Cloud & DevOps
-
-- AWS
-- Docker
-- Jenkins
-- Git
-- GitHub
-
-## Tools
-
-- VS Code
-- Eclipse
-- IntelliJ IDEA
-- Jupyter Notebook
-- MySQL Workbench
-- Postman
-
----
-## 💻 Tech Stack
+<h2 align="left">💻 Technical Skills</h2>
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,html,css,js,react,flask,mysql,mongodb,git,github,docker,aws,vscode,eclipse,tensorflow" />
+<!-- Programming Languages -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="42" title="Java"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" title="Python"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="42" title="C"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="42" title="C++"/>
+
+<!-- Frontend -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="42" title="HTML5"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="42" title="CSS3"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42" title="JavaScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="42" title="React"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="42" title="Bootstrap"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="42" title="Tailwind CSS"/>
+
+<!-- Backend -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="42" title="Spring Boot"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="42" title="Flask"/>
+<img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" width="42" title="Streamlit"/>
+
+<!-- Database -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="42" title="MySQL"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="42" title="MongoDB"/>
+
+<!-- AI & Data Analytics -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="42" title="Pandas"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="42" title="NumPy"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="42" title="Scikit-learn"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="42" title="Machine Learning"/>
+
+<!-- Cloud & DevOps -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="42" title="AWS"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="42" title="Docker"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="42" title="Jenkins"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42" title="Git"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="42" title="GitHub"/>
+
+<!-- Tools -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="42" title="VS Code"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="42" title="Eclipse"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="42" title="IntelliJ IDEA"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="42" title="Jupyter Notebook"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="42" title="Postman"/>
+
+<!-- MySQL Workbench -->
+<img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="42" title="MySQL Workbench"/>
+
+<!-- Power BI -->
+<img src="https://cdn.simpleicons.org/powerbi/F2C811" width="42" title="Power BI"/>
+
+<!-- Tableau -->
+<img src="https://cdn.simpleicons.org/tableau/E97627" width="42" title="Tableau"/>
 
 </p>
 
