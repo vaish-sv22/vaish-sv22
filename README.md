@@ -20,13 +20,11 @@
 
 ## 👩‍🎓 About Me
 
-- 🎓 Final Year B.E. Information Science & Engineering Student
+- 🎓 B.E. in Information Science & Engineering 
 - 🏫 J.N.N. College of Engineering, Shivamogga
 - 🎯 CGPA: 9.13
 - 💻 Passionate about Full Stack Development
 - 🤖 Interested in Artificial Intelligence & Machine Learning
-- ☁️ Learning Cloud Computing & DevOps
-- 🌱 Currently improving my skills in React.js, Spring Boot, AWS, Docker and Jenkins
 
 ---
 
