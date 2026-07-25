@@ -129,7 +129,7 @@
 
 <!--## 🌐 Connect with Me-->
 
-<h1 align="center"> 🌐 Connect With Me</h1>
+<h1 align="center"> Connect With Me</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vaishnavi-s-v-6139892a6/" target="_blank">
